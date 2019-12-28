@@ -368,8 +368,10 @@ button[type="submit"] {
 
 /*--------------------------------------------Map*/
 
-div#map {
+#map {
     min-height: 360px;
+    border-radius: .4em;
+    margin-bottom: 2em;
 }
 
 /*--------------------------------------------Media Queries*/
